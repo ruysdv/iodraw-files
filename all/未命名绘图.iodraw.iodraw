@@ -61,13 +61,6 @@
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-27" value="重新计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jU8m1j0GdfCdPLBNC6e8-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="710" y="430" as="sourcePoint" />
-            <mxPoint x="790" y="430" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
