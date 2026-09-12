@@ -26,7 +26,7 @@
           <mxGeometry x="230" y="190" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-7" value="有限体积离散&lt;br&gt;全隐式推进与Picard迭代" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-8" value="三套网格计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-10" value="选取计算抽样&lt;br&gt;输出result1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jU8m1j0GdfCdPLBNC6e8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jU8m1j0GdfCdPLBNC6e8-6" target="jU8m1j0GdfCdPLBNC6e8-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
