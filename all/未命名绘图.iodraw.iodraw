@@ -16,6 +16,9 @@
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-2" value="药材一维化假设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jU8m1j0GdfCdPLBNC6e8-6" value="明确初始条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
