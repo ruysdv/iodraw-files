@@ -49,9 +49,6 @@
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jU8m1j0GdfCdPLBNC6e8-6" target="jU8m1j0GdfCdPLBNC6e8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jU8m1j0GdfCdPLBNC6e8-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jU8m1j0GdfCdPLBNC6e8-9" target="jU8m1j0GdfCdPLBNC6e8-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
