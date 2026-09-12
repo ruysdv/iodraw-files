@@ -19,8 +19,8 @@
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-6" value="明确初始条件&lt;br&gt;建立（名字？）模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jU8m1j0GdfCdPLBNC6e8-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="jU8m1j0GdfCdPLBNC6e8-7" value="有限体积离散&lt;br&gt;全隐式推进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
