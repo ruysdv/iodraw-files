@@ -13,14 +13,8 @@
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-1" value="对数据点进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="120" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jU8m1j0GdfCdPLBNC6e8-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jU8m1j0GdfCdPLBNC6e8-2" value="药材一维化假设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jU8m1j0GdfCdPLBNC6e8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="320" as="targetPoint" />
-            <mxPoint x="260" y="280" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
