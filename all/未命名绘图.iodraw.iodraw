@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-0" value="读取附件一数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-1" value="对数据点进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="120" width="126" height="60" as="geometry" />
+          <mxGeometry x="230" y="90" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-2" value="药材一维化假设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jU8m1j0GdfCdPLBNC6e8-6" value="明确初始条件&lt;br&gt;建立（名字？）模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
